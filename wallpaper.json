@@ -234,10 +234,11 @@
       "title":"Beautiful Palace",
       "image":"https://i.pinimg.com/736x/b0/88/5e/b0885e1a2c2b244c367340cb8eaa34ea.jpg"
     },
-	 { "id":26,
+	 { 
+      "id":26,
       "name_category": "Beautiful",
       "title":"Beautiful Art",
-      "image":"https://i.pinimg.com/7364x/82/c9/05/82c9053ca85dbb900cb55311d68abee2.jpg"
+      "image":"https://i.pinimg.com/736x/82/c9/05/82c9053ca85dbb900cb55311d68abee2.jpg"
     },
 	  
 	 { 
