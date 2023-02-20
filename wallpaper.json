@@ -1,0 +1,657 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "on_off_native_listview":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":"1"
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Beautiful",
+      "image": "https://i.pinimg.com/736x/6e/80/ef/6e80efaef4a8a12a93e0185a152a825a.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Car",
+      "image": "https://i.pinimg.com/736x/bc/dc/73/bcdc732ca5b6709c6d302c41f85f1584.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "Cool",
+      "image": "https://i.pinimg.com/736x/3b/50/dc/3b50dcaad1f0d5db693ccd10758bfa75.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Beautiful",
+      "title":"Mountain View",
+      "image":"https://i.pinimg.com/736x/6e/80/ef/6e80efaef4a8a12a93e0185a152a825a.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Beautiful",
+      "title": "Beautiful Shell",
+      "image": "https://i.pinimg.com/736x/cc/0b/55/cc0b5531aeb8291c05d126d16cb3ca35.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "Beautiful",
+      "title":"Moon Night",
+      "image":"https://i.pinimg.com/736x/10/21/f9/1021f94c3695c311669d2705a2bb1ab8.jpg"
+    },
+    {
+      "id":4,
+      "name_category": "Beautiful",
+      "title":"Beautiful Stones",
+      "image":"https://i.pinimg.com/736x/c3/82/96/c38296277f76a3f4b19ee43acc628b0e.jpg"
+    },
+    {
+      "id":5,
+      "name_category": "Beautiful",
+      "title":"On the Beach",
+      "image":"https://i.pinimg.com/736x/31/db/0f/31db0fff65b16e111aff46d337c82f1b.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "Beautiful",
+      "title":"Tulips",
+      "image":"https://i.pinimg.com/736x/c7/21/7b/c7217bf6dcbb51fdde72bab93b66b356.jpg"
+    },
+	{
+      "id":7,
+      "name_category": "Beautiful",
+      "title":"Grooming",
+      "image":"https://i.pinimg.com/736x/ab/22/07/ab2207e561935beb27f3b45e58e91e74.jpg"
+    },
+	{
+      "id":8,
+      "name_category": "Beautiful",
+      "title":"Yosemite",
+      "image":"https://i.pinimg.com/736x/6b/f8/98/6bf898e6e9ef5048c325f20e9b9d33d1.jpg"
+    },
+	{
+      "id":9,
+      "name_category": "Beautiful",
+      "title":"Lake",
+      "image":"https://i.pinimg.com/736x/45/9d/fe/459dfefbe688ccf36841f09a119fae24.jpg"
+    },
+	{
+      "id":10,
+      "name_category": "Beautiful",
+      "title":"Rock Mountain",
+      "image":"https://i.pinimg.com/736x/6b/66/9f/6b669fcdd2b4a9f3772073eb823fc55e.jpg"
+    },
+	{
+      "id":11,
+      "name_category": "Beautiful",
+      "title":"Headphone",
+      "image":"https://i.pinimg.com/736x/1d/88/a0/1d88a0ebe2734c372c1d4931859be558.jpg"
+    },
+	{
+      "id":12,
+      "name_category": "Beautiful",
+      "title":"Beautiful Circles",
+      "image":"https://i.pinimg.com/736x/a3/e1/92/a3e192b93dcbcb50872d00ced1ec1c30.jpg"
+    },
+	{
+      "id":13,
+      "name_category": "Beautiful",
+      "title":"Bubbles",
+      "image":"https://i.pinimg.com/736x/dd/97/06/dd97062b2fcfab17ee864cbb6890c9c3.jpg"
+    },
+	{
+      "id":14,
+      "name_category": "Beautiful",
+      "title":"Heart",
+      "image":"https://i.pinimg.com/736x/6c/a0/1d/6ca01d6f20182951f95193e1dc19d7fc.jpg"
+    },
+	{
+      "id":15,
+      "name_category": "Beautiful",
+      "title":"Beautiful Sea",
+      "image":"https://i.pinimg.com/736x/1a/f5/d2/1af5d2407c6ce0d702a7864316e47294.jpg"
+    },
+	  
+	{
+	  "id":16,
+      "name_category": "Beautiful",
+      "title":"Cute Cat",
+      "image":"https://i.pinimg.com/736x/73/99/62/7399623928e84689719202977ad2adac.jpg"
+    },
+	  
+    {
+	 "id":17,
+      "name_category": "Beautiful",
+      "title":"Beautiful Heart",
+      "image":"https://i.pinimg.com/736x/2d/2f/14/2d2f14280791e70e1059fdf63c64a500.jpg"
+    },
+	  
+	 { 
+	  "id":18,
+      "name_category": "Beautiful",
+      "title":"Beautiful Ship",
+      "image":"https://i.pinimg.com/736x/56/31/14/563114a00cf719b32a113f93c1be370b.jpg"
+    },
+	  
+	{
+	  "id":19,
+      "name_category": "Beautiful",
+      "title":"Beautiful Universe",
+      "image":"https://i.pinimg.com/736x/f1/4c/39/f14c393c3b82d69aef44590414f4f9cd.jpg"
+    },
+	  
+	 { 
+	 "id":20,
+      "name_category": "Beautiful",
+      "title":"Apple Glass",
+      "image":"https://i.pinimg.com/736x/a2/2c/9b/a22c9b625aa291be7ed354821644a42c.jpg"
+    },
+	  
+	{
+	  "id":21,
+      "name_category": "Beautiful",
+      "title":"Beautiful Peacock",
+      "image":"https://i.pinimg.com/736x/1e/9c/96/1e9c96b3a72f4eef5a29832c12a48bcf.jpg"
+    },
+	{
+	  
+	  "id":22,
+      "name_category": "Beautiful",
+      "title":"Red Berries",
+      "image":"https://i.pinimg.com/736x/ea/80/de/ea80de068bbe51c31abe3ef2e0bd79bf.jpg"
+    },
+	  
+	  
+	 {
+	  "id":23,
+      "name_category": "Beautiful",
+      "title":"Colored Umbrellas",
+      "image":"https://i.pinimg.com/736x/13/4b/9e/134b9e072cf9b992fe7d71f5531b4349.jpg"
+    },
+	  
+	  {
+	  "id":24,
+      "name_category": "Beautiful",
+      "title":"Oranges",
+      "image":"https://i.pinimg.com/736x/30/cc/6e/30cc6e5e9deaa19708c96673f6b7a0de.jpg"
+    },
+	 { 
+	  "id":25,
+      "name_category": "Beautiful",
+      "title":"Beautiful Palace",
+      "image":"https://i.pinimg.com/736x/b0/88/5e/b0885e1a2c2b244c367340cb8eaa34ea.jpg"
+    },
+	 { "id":26,
+      "name_category": "Beautiful",
+      "title":"Beautiful Art",
+      "image":"https://i.pinimg.com/7364x/82/c9/05/82c9053ca85dbb900cb55311d68abee2.jpg"
+    },
+	  
+	 { 
+	  "id":27,
+      "name_category": "Beautiful",
+      "title":"Beautiful Beach",
+      "image":"https://i.pinimg.com/736x/44/8d/b9/448db9fd23bb0faeecbf4ee2d4361e0e.jpg"
+    },
+	  
+	  {
+	  
+	  "id":28,
+      "name_category": "Beautiful",
+      "title":"Beautiful Town",
+      "image":"https://i.pinimg.com/736x/8c/24/5a/8c245a4ff44f3119051cb7063785dbbb.jpg"
+    },
+	  {
+	  "id":29,
+      "name_category": "Beautiful",
+      "title":"Beautiful Paradise",
+      "image":"https://i.pinimg.com/736x/5d/2d/ea/5d2dea2c187798e1c89a79cc2b6727b4.jpg"
+    },
+	  
+	  {
+	  "id":30,
+      "name_category": "Beautiful",
+      "title":"Beautiful mildew",
+      "image":"https://i.pinimg.com/736x/61/a3/b0/61a3b024e0d9865fde28c698752d04be.jpg"
+    },
+	
+	{
+      "id":31,
+      "name_category": "Car",
+      "title":"Sport Car",
+      "image":"https://i.pinimg.com/736x/bc/dc/73/bcdc732ca5b6709c6d302c41f85f1584.jpg"
+    },
+    {
+      "id":32,
+      "name_category": "Car",
+      "title": "Street Legal Car",
+      "image": "https://i.pinimg.com/736x/b9/61/e9/b961e9e48d968f70fcf2128569e0f918.jpg"
+    },
+    {
+      "id":33,
+      "name_category": "Car",
+      "title":"Sweet Car",
+      "image":"https://i.pinimg.com/736x/7d/84/35/7d8435e160222abe7d85592f6cfbc6cd.jpg"
+    },
+    {
+      "id":34,
+      "name_category": "Car",
+      "title":"Silver",
+      "image":"https://i.pinimg.com/736x/ac/b6/9c/acb69cc2ce85d328ede54ce87f7f7c9f.jpg"
+    },
+    {
+      "id":35,
+      "name_category": "Car",
+      "title":"Beautiful Car",
+      "image":"https://i.pinimg.com/736x/04/43/bb/0443bb6e7f95508410ea425434fbc126.jpg"
+    },
+    {
+      "id":36,
+      "name_category": "Car",
+      "title":"Hypercar",
+      "image":"https://i.pinimg.com/736x/9e/ff/4f/9eff4fe9117c1cfe163f3ab78dab1f8b.jpg"
+    },
+	{
+      "id":37,
+      "name_category": "Car",
+      "title":"GTR R35",
+      "image":"https://i.pinimg.com/736x/e2/f9/54/e2f95410e1e12830334f6c1764f33304.jpg"
+    },
+	{
+      "id":38,
+      "name_category": "Car",
+      "title":"Lambo",
+      "image":"https://i.pinimg.com/736x/0a/b7/52/0ab7528f4aa580cae1bd2d2fed2c4f1e.jpg"
+    },
+	{
+      "id":39,
+      "name_category": "Car",
+      "title":"Blue Edition",
+      "image":"https://i.pinimg.com/736x/f5/af/2c/f5af2c55e7c2a397b46f867d51c194fd.jpg"
+    },
+	{
+      "id":40,
+      "name_category": "Car",
+      "title":"765 LT",
+      "image":"https://i.pinimg.com/736x/7f/a2/3b/7fa23b890d591956d2d53f0425092961.jpg"
+    },
+	{
+      "id":41,
+      "name_category": "Car",
+      "title":"Dark Green",
+      "image":"https://i.pinimg.com/736x/aa/83/36/aa833608de4814c1e3b32bed0bb92ac7.jpg"
+    },
+	{
+      "id":42,
+      "name_category": "Car",
+      "title":"RTR",
+      "image":"https://i.pinimg.com/736x/58/16/df/5816dfa82478ac23ae7258f8dae6d772.jpg"
+    },
+	{
+      "id":43,
+      "name_category": "Car",
+      "title":"Aesthetic Car",
+      "image":"https://i.pinimg.com/736x/7d/1c/5a/7d1c5a9fbc802847ce98cc34f2ab91b4.jpg"
+    },
+	{
+      "id":44,
+      "name_category": "Car",
+      "title":"Twin Red",
+      "image":"https://i.pinimg.com/736x/d4/10/6d/d4106de1221eb593e46aac93bdaf8032.jpg"
+    },
+	{
+      "id":45,
+      "name_category": "Car",
+      "title":"Blue Cobra",
+      "image":"https://i.pinimg.com/736x/79/4e/84/794e840a2f7d3f1b8e51527725b7df6e.jpg"
+    },
+	  
+	{
+	  "id":46,
+      "name_category": "Car",
+      "title":"Sport Car",
+      "image":"https://i.pinimg.com/736x/8e/ef/44/8eef449d14ed63f537edb903b5467065.jpg"
+    },
+	  
+    {
+	 "id":47,
+      "name_category": "Car",
+      "title":"Ultimae",
+      "image":"https://i.pinimg.com/736x/45/8b/43/458b43c721ec7721bd406376ea4a67ff.jpg"
+    },
+	  
+	 { 
+	  "id":48,
+      "name_category": "Car",
+      "title":"Luxury Car",
+      "image":"https://i.pinimg.com/736x/51/df/05/51df056ca86bdf3f0ae12b17ea3b4f5a.jpg"
+    },
+	  
+	{
+	  "id":49,
+      "name_category": "Car",
+      "title":"W16 Mistral",
+      "image":"https://i.pinimg.com/736x/a4/c4/b4/a4c4b40a4b0faf0a40594a46a678e2d9.jpg"
+    },
+	  
+	 { 
+	 "id":50,
+      "name_category": "Car",
+      "title":"Yellow Car",
+      "image":"https://i.pinimg.com/736x/12/23/85/12238572950824943dc08ed76f6a6c9d.jpg"
+    },
+	  
+	{
+	  "id":51,
+      "name_category": "Car",
+      "title":"Sunshine on Wheels",
+      "image":"https://i.pinimg.com/736x/73/91/df/7391dfa0a68d8efa44e44d95af4e65b4.jpg"
+    },
+	{
+	  
+	  "id":52,
+      "name_category": "Car",
+      "title":"Challenger",
+      "image":"https://i.pinimg.com/736x/e5/d5/ba/e5d5ba4ddb5bc063599e38e12cc70e25.jpg"
+    },
+	  
+	{
+	  "id":53,
+      "name_category": "Car",
+      "title":"Dark Blue",
+      "image":"https://i.pinimg.com/736x/a6/b2/de/a6b2deaa027288cd8f392e1c23fbf9b9.jpg"
+    },
+	  
+	  {
+	  "id":54,
+      "name_category": "Car",
+      "title":"On the Showroom",
+      "image":"https://i.pinimg.com/736x/42/3d/6a/423d6ae128a32c19a771b06abb972741.jpg"
+    },
+	 { 
+	  "id":55,
+      "name_category": "Car",
+      "title":"SP Car",
+      "image":"https://i.pinimg.com/736x/4b/3c/4c/4b3c4c6f0a49261ef919321a094754db.jpg"
+    },
+	 { "id":56,
+      "name_category": "Car",
+      "title":"033",
+      "image":"https://i.pinimg.com/736x/5b/d7/8e/5bd78eadbf65a2113b8686a7c65de330.jpg"
+    },
+	  
+	 { 
+	  "id":57,
+      "name_category": "Car",
+      "title":"029",
+      "image":"https://i.pinimg.com/736x/14/bc/6b/14bc6b485e45b36115e3175fab4fc63b.jpg"
+    },
+	  
+	  {
+	  
+	  "id":58,
+      "name_category": "Car",
+      "title":"On the Rock",
+      "image":"https://i.pinimg.com/736x/eb/b0/aa/ebb0aa705f42c9f0dee2d9801a4b931a.jpg"
+    },
+	  {
+	  "id":59,
+      "name_category": "Car",
+      "title":"Super Car",
+      "image":"https://i.pinimg.com/736x/eb/b0/aa/ebb0aa705f42c9f0dee2d9801a4b931a.jpg"
+    },
+	  
+	  {
+	  "id":60,
+      "name_category": "Car",
+      "title":"Modified Sport Car",
+      "image":"https://i.pinimg.com/736x/b5/d4/56/b5d4563b793ddcdb62f656aaab9266fb.jpg"
+    },
+	
+	{
+      "id":61,
+      "name_category": "Cool",
+      "title":"Cool Tiger",
+      "image":"https://i.pinimg.com/736x/3b/50/dc/3b50dcaad1f0d5db693ccd10758bfa75.jpg"
+    },
+    {
+      "id":62,
+      "name_category": "Cool",
+      "title": "",
+      "image": ""
+    },
+    {
+      "id":63,
+      "name_category": "Cool",
+      "title":"",
+      "image":""
+    },
+    {
+      "id":64,
+      "name_category": "Cool",
+      "title":"",
+      "image":""
+    },
+    {
+      "id":65,
+      "name_category": "Cool",
+      "title":"",
+      "image":""
+    },
+    {
+      "id":66,
+      "name_category": "Cool",
+      "title":"",
+      "image":""
+    },
+	{
+      "id":67,
+      "name_category": "Cool",
+      "title":"",
+      "image":""
+    },
+	{
+      "id":68,
+      "name_category": "Cool",
+      "title":"",
+      "image":""
+    },
+	{
+      "id":69,
+      "name_category": "Cool",
+      "title":"Blue Edition",
+      "image":""
+    },
+	{
+      "id":70,
+      "name_category": "Cool",
+      "title":"",
+      "image":""
+    },
+	{
+      "id":71,
+      "name_category": "Cool",
+      "title":"",
+      "image":""
+    },
+	{
+      "id":72,
+      "name_category": "Cool",
+      "title":"",
+      "image":""
+    },
+	{
+      "id":73,
+      "name_category": "Cool",
+      "title":"",
+      "image":""
+    },
+	{
+      "id":74,
+      "name_category": "Cool",
+      "title":"",
+      "image":""
+    },
+	{
+      "id":75,
+      "name_category": "Cool",
+      "title":"",
+      "image":""
+    },
+	  
+	{
+	  "id":76,
+      "name_category": "Cool",
+      "title":"",
+      "image":""
+    },
+	  
+    {
+	 "id":77,
+      "name_category": "Cool",
+      "title":"",
+      "image":""
+    },
+	  
+	 { 
+	  "id":78,
+      "name_category": "Cool",
+      "title":"",
+      "image":""
+    },
+	  
+	{
+	  "id":79,
+      "name_category": "Cool",
+      "title":"",
+      "image":""
+    },
+	  
+	 { 
+	 "id":80,
+      "name_category": "Cool",
+      "title":"",
+      "image":""
+    },
+	  
+	{
+	  "id":81,
+      "name_category": "Cool",
+      "title":"",
+      "image":""
+    },
+	{
+	  
+	  "id":82,
+      "name_category": "Cool",
+      "title":"",
+      "image":""
+    },
+	  
+	{
+	  "id":83,
+      "name_category": "Cool",
+      "title":"",
+      "image":""
+    },
+	  
+	  {
+	  "id":84,
+      "name_category": "Cool",
+      "title":"",
+      "image":""
+    },
+	 { 
+	  "id":85,
+      "name_category": "Cool",
+      "title":"",
+      "image":""
+    },
+	 { "id":86,
+      "name_category": "Cool",
+      "title":"",
+      "image":""
+    },
+	  
+	 { 
+	  "id":87,
+      "name_category": "Cool",
+      "title":"",
+      "image":""
+    },
+	  
+	  {
+	  
+	  "id":88,
+      "name_category": "Cool",
+      "title":"",
+      "image":""
+    },
+	  {
+	  "id":89,
+      "name_category": "Cool",
+      "title":"",
+      "image":""
+    },
+	  
+	  {
+	  "id":90,
+      "name_category": "Cool",
+      "title":"",
+      "image":""
+    },
+  ]
+}
