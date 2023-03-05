@@ -69,6 +69,12 @@
       "name_category": "Cool",
       "image": "https://i.pinimg.com/736x/3b/50/dc/3b50dcaad1f0d5db693ccd10758bfa75.jpg"
 
+    },
+    {
+      "id": 4,
+      "name_category": "Cute",
+      "image": "https://i.pinimg.com/736x/64/ca/9f/64ca9f0fdecf6006ae6779ab5274deca.jpg"
+
     }
   ],
 
@@ -653,6 +659,132 @@
       "name_category": "Cool",
       "title":"Cool Pochacco",
       "image":"https://i.pinimg.com/736x/c7/a4/be/c7a4beeb132f1404d70067ce8198e11c.jpg"
-    }
+    },
+	  
+{
+      "id":91,
+      "name_category": "Cute",
+      "title":"",
+      "image":""
+    },
+    {
+      "id":92,
+      "name_category": "Cute",
+      "title": "",
+      "image": ""
+    },
+    {
+      "id":93,
+      "name_category": "Cute",
+      "title":"",
+      "image":""
+    },
+    {
+      "id":94,
+      "name_category": "Cute",
+      "title":"",
+      "image":""
+    },
+    {
+      "id":95,
+      "name_category": "Cute",
+      "title":"",
+      "image":""
+    },
+    {
+      "id":96,
+      "name_category": "Cute",
+      "title":"",
+      "image":""
+    },
+	{
+      "id":97,
+      "name_category": "Cute",
+      "title":"",
+      "image":""
+    },
+	{
+      "id":98,
+      "name_category": "Cute",
+      "title":"",
+      "image":""
+    },
+	{
+      "id":99,
+      "name_category": "Cute",
+      "title":"",
+      "image":""
+    },
+	{
+      "id":100,
+      "name_category": "Cute",
+      "title":"",
+      "image":""
+    },
+	{
+      "id":101,
+      "name_category": "Cute",
+      "title":"",
+      "image":""
+    },
+	{
+      "id":102,
+      "name_category": "Cute",
+      "title":"",
+      "image":""
+    },
+	{
+      "id":103,
+      "name_category": "Cute",
+      "title":"",
+      "image":""
+    },
+	{
+      "id":104,
+      "name_category": "Cute",
+      "title":"",
+      "image":""
+    },
+	{
+      "id":105,
+      "name_category": "Cute",
+      "title":"",
+      "image":""
+    },
+	  
+	{
+	  "id":106,
+      "name_category": "Cute",
+      "title":"",
+      "image":""
+    },
+	  
+    {
+	 "id":107,
+      "name_category": "Cute",
+      "title":"",
+      "image":""
+    },
+	  
+	 { 
+	  "id":108,
+      "name_category": "Cute",
+      "title":"",
+      "image":""
+    },
+	  
+	{
+	  "id":109,
+      "name_category": "Cute",
+      "title":"",
+      "image":""
+    },
+	  
+	 { 
+	 "id":110,
+      "name_category": "Cute",
+      "title":"",
+      "image":""
+    }	  
   ]
 }
