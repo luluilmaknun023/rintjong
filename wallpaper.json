@@ -79,7 +79,7 @@
     {
       "id": 5,
       "name_category": "Galaxy",
-      "image": "https://i.pinimg.com/736x/64/ca/9f/64ca9f0fdecf6006ae6779ab5274deca.jpg"
+      "image": "image":"https://i.pinimg.com/736x/e5/b4/c4/e5b4c43e586b4aaa2d8475a2e7d1081c.jpg"
     },
     {
       "id": 6,
@@ -89,7 +89,7 @@
     {
       "id": 7,
       "name_category": "Space",
-      "image": "https://i.pinimg.com/736x/64/ca/9f/64ca9f0fdecf6006ae6779ab5274deca.jpg"
+      "image": "https://i.pinimg.com/736x/b0/9d/50/b09d503c7cf1536abc35714693e29329.jpg"
     },
     {
       "id": 8,
@@ -811,127 +811,127 @@
     {
       "id":111,
       "name_category": "Galaxy",
-      "title":"",
-      "image":""
+      "title":"Planet Explosion",
+      "image":"https://i.pinimg.com/736x/e5/b4/c4/e5b4c43e586b4aaa2d8475a2e7d1081c.jpg"
     },
     {
       "id": 112,
       "name_category": "Galaxy",
-      "title": "",
-      "image": ""
+      "title": "Solar Sytem",
+      "image": "https://i.pinimg.com/736x/2e/44/4a/2e444a1a4f55a423c1783f5fdd4dadb0.jpg"
     },
     {
       "id":113,
       "name_category": "Galaxy",
-      "title":"",
-      "image":""
+      "title":"Beautiful Universe",
+      "image":"https://i.pinimg.com/736x/b2/e2/51/b2e251773593e25830fb9db66f53ae0a.jpg"
     },
     {
       "id":114,
       "name_category": "Galaxy",
-      "title":"",
-      "image":""
+      "title":"Ultra Violet",
+      "image":"https://i.pinimg.com/736x/63/d9/8d/63d98d0bb9cac69d696a6f51db8b65d3.jpg"
     },
     {
       "id":115,
       "name_category": "Galaxy",
-      "title":"",
-      "image":""
+      "title":"Space Wallpaper",
+      "image":"https://i.pinimg.com/736x/8f/b4/b6/8fb4b67cb93b54788565cd5a7d8cb599.jpg"
     },
     {
       "id":116,
       "name_category": "Galaxy",
-      "title":"",
-      "image":""
+      "title":"Astronout HD Wallpaper",
+      "image":"https://i.pinimg.com/376x/7f/97/e1/7f97e159bc79698f5c617953610fada1.jpg"
     },
 	{
       "id":117,
       "name_category": "Galaxy",
-      "title":"",
-      "image":""
+      "title":"Beautiful Universe",
+      "image":"https://i.pinimg.com/736x/2d/db/b5/2ddbb5f5a882e50ceba3d229c1a5dd5a.jpg"
     },
 	{
       "id":118,
       "name_category": "Galaxy",
-      "title":"",
-      "image":""
+      "title":"World Wallpaper",
+      "image":"https://i.pinimg.com/736x/23/6d/5c/236d5cc9c8dacdb19f7c410cd77d1cb6.jpg"
     },
 	{
       "id":119,
       "name_category": "Galaxy",
-      "title":"",
-      "image":""
+      "title":"Beautiful Space",
+      "image":"https://i.pinimg.com/736x/b0/7e/e8/b07ee8ae7afc3200222fd742971151f5.jpg"
     },
 	{
       "id":120,
       "name_category": "Galaxy",
-      "title":"",
-      "image":""
+      "title":"World Space",
+      "image":"https://i.pinimg.com/736x/95/57/fe/9557fe59d839d9453ae6cdb1ec8cccf5.jpg"
     },
 	{
       "id":121,
       "name_category": "Galaxy",
-      "title":"",
-      "image":""
+      "title":"Space View Stars",
+      "image":"https://i.pinimg.com/736x/49/ad/df/49addfe8edf1d2e93d3492c71d8987e5.jpg"
     },
 	{
       "id":122,
       "name_category": "Galaxy",
-      "title":"",
-      "image":""
+      "title":"Space Jump",
+      "image":"https://i.pinimg.com/736x/4c/f0/54/4cf0545b7f3d24ee3378b5da4d318c67.jpg"
     },
 	{
       "id":123,
       "name_category": "Galaxy",
-      "title":"",
-      "image":""
+      "title":"Apocalypse",
+      "image":"https://i.pinimg.com/736x/b0/9d/50/b09d503c7cf1536abc35714693e29329.jpg"
     },
 	{
       "id":124,
       "name_category": "Galaxy",
-      "title":"",
-      "image":""
+      "title":"Rocket Space",
+      "image":"https://i.pinimg.com/736x/23/b6/c7/23b6c7a2f0ca130dc36fb31478511392.jpg"
     },
 	{
       "id":125,
       "name_category": "Galaxy",
-      "title":"",
-      "image":""
+      "title":"Deep Space Ring Planet",
+      "image":"https://i.pinimg.com/736x/34/14/ad/3414ad70abe1b54aff1dafc6c4bd1bff.jpg"
     },
 	  
 	{
 	  "id":126,
       "name_category": "Galaxy",
-      "title":"",
-      "image":""
+      "title":"Blue Planet",
+      "image":"https://i.pinimg.com/736x/b8/c0/a2/b8c0a207ed769c11b28c601b04cc1b56.jpg"
     },
 	  
     {
 	 "id":127,
       "name_category": "Galaxy",
-      "title":"",
-      "image":""
+      "title":"Cool Space",
+      "image":"https://i.pinimg.com/736x/09/5e/74/095e741ff45bece31a21bd2b58c70e2e.jpg"
     },
 	  
 	 { 
 	  "id":128,
       "name_category": "Galaxy",
-      "title":"",
-      "image":""
+      "title":"Cool Planet",
+      "image":"https://i.pinimg.com/736x/86/19/27/861927b41a700885d76711e813f99a58.jpg"
     },
 	  
 	{
 	  "id":129,
       "name_category": "Galaxy",
-      "title":"",
-      "image":""
+      "title":"Universe",
+      "image":"https://i.pinimg.com/736x/af/d7/07/afd7071f39785f1d1b44fd2694b67be6.jpg"
     },
 	  
 	 { 
 	 "id":130,
       "name_category": "Galaxy",
-      "title":"",
-      "image":""
+      "title":"Planets",
+      "image":"https://i.pinimg.com/736x/6e/94/6b/6e946b94df3c11d258ce78b1a0c188af.jpg"
     }  
   ]
 }
