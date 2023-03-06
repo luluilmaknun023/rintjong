@@ -79,20 +79,16 @@
     {
       "id": 5,
       "name_category": "Galaxy",
-      "image": "image":"https://i.pinimg.com/736x/e5/b4/c4/e5b4c43e586b4aaa2d8475a2e7d1081c.jpg"
+      "image": "https://i.pinimg.com/736x/e5/b4/c4/e5b4c43e586b4aaa2d8475a2e7d1081c.jpg"
     },
     {
       "id": 6,
       "name_category": "Nature",
       "image": "https://i.pinimg.com/736x/64/ca/9f/64ca9f0fdecf6006ae6779ab5274deca.jpg"
     },
+   
     {
       "id": 7,
-      "name_category": "Space",
-      "image": "https://i.pinimg.com/736x/b0/9d/50/b09d503c7cf1536abc35714693e29329.jpg"
-    },
-    {
-      "id": 8,
       "name_category": "Wolf",
       "image": "https://i.pinimg.com/736x/64/ca/9f/64ca9f0fdecf6006ae6779ab5274deca.jpg"
     }
@@ -932,6 +928,134 @@
       "name_category": "Galaxy",
       "title":"Planets",
       "image":"https://i.pinimg.com/736x/6e/94/6b/6e946b94df3c11d258ce78b1a0c188af.jpg"
-    }  
+    },
+	  
+    {
+      "id":131,
+      "name_category": "Nature",
+      "title":"",
+      "image":""
+    },
+    {
+      "id": 132,
+      "name_category": "Nature",
+      "title": "",
+      "image": ""
+    },
+    {
+      "id":133,
+      "name_category": "Nature",
+      "title":"",
+      "image":""
+    },
+    {
+      "id":134,
+      "name_category": "Nature",
+      "title":"",
+      "image":""
+    },
+    {
+      "id":135,
+      "name_category": "Nature",
+      "title":"",
+      "image":""
+    },
+    {
+      "id":136,
+      "name_category": "Nature",
+      "title":"",
+      "image":""
+    },
+	{
+      "id":137,
+      "name_category": "Nature",
+      "title":"",
+      "image":""
+    },
+	{
+      "id":138,
+      "name_category": "Nature",
+      "title":"",
+      "image":""
+    },
+	{
+      "id":139,
+      "name_category": "Nature",
+      "title":"",
+      "image":""
+    },
+	{
+      "id":140,
+      "name_category": "Nature",
+      "title":"",
+      "image":""
+    },
+	{
+      "id":141,
+      "name_category": "Nature",
+      "title":"",
+      "image":""
+    },
+	{
+      "id":142,
+      "name_category": "Nature",
+      "title":"",
+      "image":""
+    },
+	{
+      "id":143,
+      "name_category": "Nature",
+      "title":"",
+      "image":""
+    },
+	{
+      "id":144,
+      "name_category": "Nature",
+      "title":"",
+      "image":""
+    },
+	{
+      "id":145,
+      "name_category": "Nature",
+      "title":"",
+      "image":""
+    },
+	  
+	{
+	  "id":146,
+      "name_category": "Nature",
+      "title":"",
+      "image":""
+    },
+	  
+    {
+	 "id":147,
+      "name_category": "Nature",
+      "title":"",
+      "image":""
+    },
+	  
+	 { 
+	  "id":148,
+      "name_category": "Nature",
+      "title":"",
+      "image":""
+    },
+	  
+	{
+	  "id":149,
+      "name_category": "Nature",
+      "title":"",
+      "image":""
+    },
+	  
+	 { 
+	 "id":150,
+      "name_category": "Nature",
+      "title":"",
+      "image":""
+    }
+	  
+    	  
   ]
 }
