@@ -40,44 +40,15 @@
   ],
 
   "Categories": [
+    
     {
       "id": 1,
-      "name_category": "Beautiful",
-      "image": "https://i.pinimg.com/736x/6e/80/ef/6e80efaef4a8a12a93e0185a152a825a.jpg"
-
+      "name_category": "Anime Boy",
+      "image": "https://i.pinimg.com/736x/52/6e/f8/526ef8b0be9f6b800f176d48f8739f02.jpg"
     },
     {
       "id": 2,
-      "name_category": "Car",
-      "image": "https://i.pinimg.com/736x/bc/dc/73/bcdc732ca5b6709c6d302c41f85f1584.jpg"
-
-    },
-    {
-      "id": 3,
-      "name_category": "Cool",
-      "image": "https://i.pinimg.com/736x/3b/50/dc/3b50dcaad1f0d5db693ccd10758bfa75.jpg"
-
-    },
-    {
-      "id": 4,
-      "name_category": "Cute",
-      "image": "https://i.pinimg.com/736x/64/ca/9f/64ca9f0fdecf6006ae6779ab5274deca.jpg"
-
-    },
-    {
-      "id": 5,
-      "name_category": "Galaxy",
-      "image": "https://i.pinimg.com/736x/e5/b4/c4/e5b4c43e586b4aaa2d8475a2e7d1081c.jpg"
-    },
-    {
-      "id": 6,
-      "name_category": "Nature",
-      "image": "https://i.pinimg.com/736x/c0/e3/b7/c0e3b711d1482b07945234526b43fa45.jpg"
-    },
-   
-    {
-      "id": 7,
-      "name_category": "Wolf",
+      "name_category": "Anime Girl",
       "image": "https://i.pinimg.com/736x/52/6e/f8/526ef8b0be9f6b800f176d48f8739f02.jpg"
     }
 	  
