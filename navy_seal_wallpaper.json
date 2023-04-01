@@ -51,22 +51,11 @@
   ],
 
   "Categories": [
+  
     {
-      "id": 1,
-      "name_category": "Nature",
-      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
-
-    },
-    {
-      "id": 2,
-      "name_category": "Animal",
-      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
-
-    },
-    {
-      "id": 3,
-      "name_category": "Car",
-      "image": "file:///android_asset/image/car.jpg"
+      "id": ,
+      "name_category": "US Navy Seal",
+      "image": "https://i.pinimg.com/736x/2d/74/e3/2d74e3d5ffe4c47162f69f954518edb5.jpg"
 
     }
   ],
@@ -75,40 +64,185 @@
   [
     {
       "id":1,
-      "name_category": "Nature",
-      "title":"Waterfall",
-      "image":"https://i.pinimg.com/564x/a7/43/2d/a7432d11b2a629d1f05162a6c518744f.jpg"
+      "name_category": "US Navy Seal",
+      "title":"US Navy Seal",
+      "image":"https://i.pinimg.com/736x/b2/93/c9/b293c956105a8dd67fdf1e95740b2ad9.jpg"
     },
     {
       "id": 2,
-      "name_category": "Nature",
-      "title": "River",
-      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+      "name_category": "US Navy Seal",
+      "title": "US Navy Seal",
+      "image": "https://i.pinimg.com/736x/28/bf/d3/28bfd3ab3c6c5f8467360f4c02019f6e.jpg"
     },
     {
       "id":3,
-      "name_category": "Nature",
-      "title":"Mountain",
-      "image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cd5f075-42da-466b-b00a-8bb7ef66ad32/da9l0sw-5f1c1073-d232-4c10-8385-6176e1d71be2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMWNkNWYwNzUtNDJkYS00NjZiLWIwMGEtOGJiN2VmNjZhZDMyXC9kYTlsMHN3LTVmMWMxMDczLWQyMzItNGMxMC04Mzg1LTYxNzZlMWQ3MWJlMi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.QqjZ3T5HxGHJ8A3n3lC87BcVcLoXJUZZ1DOWf4MK4Ew"
+      "name_category": "US Navy Seal",
+      "title":"US Navy Seal",
+      "image":"https://i.pinimg.com/736x/c7/03/cc/c703cc4ea068f13be1e60a0661ceb103.jpg"
     },
     {
       "id":4,
-      "name_category": "Animal",
-      "title":"Cute Cat",
-      "image":"http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+      "name_category": "US Navy Seal",
+      "title":"US Navy Seal",
+      "image":"https://i.pinimg.com/736x/b2/cd/2c/b2cd2c521fade70c4017472efb06f780.jpg"
     }
   ,
     {
       "id":5,
-      "name_category": "Animal",
-      "title":"Dog",
-      "image":"https://3diphonewallpaper.com/wp-content/uploads/2018/03/iPhone-Wallpaper-Cute-Puppies-Pictures.jpg"
+      "name_category": "US Navy Seal",
+      "title":"US Navy Seal",
+      "image":"https://i.pinimg.com/736x/12/ba/8a/12ba8aa33c2e4b50a0b7e93d3cde59e6.jpg"
     },
     {
       "id":6,
-      "name_category": "Car",
-      "title":"Super Car",
-      "image":"file:///android_asset/image/car.jpg"
+      "name_category": "US Navy Seal",
+      "title":"US Navy Seal",
+      "image":"https://i.pinimg.com/236x/1d/12/78/1d127842a75acc09226d9a8a427f67dd.jpg"
+    },
+    {
+      "id":7,
+      "name_category": "US Navy Seal",
+      "title":"US Navy Seal",
+      "image":"https://i.pinimg.com/236x/1d/12/78/1d127842a75acc09226d9a8a427f67dd.jpg"
+    },
+    {
+      "id":8,
+      "name_category": "US Navy Seal",
+      "title":"US Navy Seal",
+      "image":"https://i.pinimg.com/236x/1d/12/78/1d127842a75acc09226d9a8a427f67dd.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "US Navy Seal",
+      "title":"US Navy Seal",
+      "image":"https://i.pinimg.com/236x/1d/12/78/1d127842a75acc09226d9a8a427f67dd.jpg"
+    },
+    {
+      "id":10,
+      "name_category": "US Navy Seal",
+      "title":"US Navy Seal",
+      "image":"https://i.pinimg.com/236x/1d/12/78/1d127842a75acc09226d9a8a427f67dd.jpg"
+    },
+    {
+      "id":11,
+      "name_category": "US Navy Seal",
+      "title":"US Navy Seal",
+      "image":"https://i.pinimg.com/236x/1d/12/78/1d127842a75acc09226d9a8a427f67dd.jpg"
+    },
+    {
+      "id":12,
+      "name_category": "US Navy Seal",
+      "title":"US Navy Seal",
+      "image":"https://i.pinimg.com/236x/1d/12/78/1d127842a75acc09226d9a8a427f67dd.jpg"
+    },
+    {
+      "id":13,
+      "name_category": "US Navy Seal",
+      "title":"US Navy Seal",
+      "image":"https://i.pinimg.com/236x/1d/12/78/1d127842a75acc09226d9a8a427f67dd.jpg"
+    },
+    {
+      "id":14,
+      "name_category": "US Navy Seal",
+      "title":"US Navy Seal",
+      "image":"https://i.pinimg.com/236x/1d/12/78/1d127842a75acc09226d9a8a427f67dd.jpg"
+    },
+    {
+      "id":15,
+      "name_category": "US Navy Seal",
+      "title":"US Navy Seal",
+      "image":"https://i.pinimg.com/236x/1d/12/78/1d127842a75acc09226d9a8a427f67dd.jpg"
+    },
+    {
+      "id":16,
+      "name_category": "US Navy Seal",
+      "title":"US Navy Seal",
+      "image":"https://i.pinimg.com/236x/1d/12/78/1d127842a75acc09226d9a8a427f67dd.jpg"
+    },
+    {
+      "id":17,
+      "name_category": "US Navy Seal",
+      "title":"US Navy Seal",
+      "image":"https://i.pinimg.com/236x/1d/12/78/1d127842a75acc09226d9a8a427f67dd.jpg"
+    },
+    {
+      "id":18,
+      "name_category": "US Navy Seal",
+      "title":"US Navy Seal",
+      "image":"https://i.pinimg.com/236x/1d/12/78/1d127842a75acc09226d9a8a427f67dd.jpg"
+    },
+    {
+      "id":19,
+      "name_category": "US Navy Seal",
+      "title":"US Navy Seal",
+      "image":"https://i.pinimg.com/236x/1d/12/78/1d127842a75acc09226d9a8a427f67dd.jpg"
+    },
+    {
+      "id":20,
+      "name_category": "US Navy Seal",
+      "title":"US Navy Seal",
+      "image":"https://i.pinimg.com/236x/1d/12/78/1d127842a75acc09226d9a8a427f67dd.jpg"
+    },
+    {
+      "id":21,
+      "name_category": "US Navy Seal",
+      "title":"US Navy Seal",
+      "image":"https://i.pinimg.com/236x/1d/12/78/1d127842a75acc09226d9a8a427f67dd.jpg"
+    },
+    {
+      "id":22,
+      "name_category": "US Navy Seal",
+      "title":"US Navy Seal",
+      "image":"https://i.pinimg.com/236x/1d/12/78/1d127842a75acc09226d9a8a427f67dd.jpg"
+    },
+    {
+      "id":23,
+      "name_category": "US Navy Seal",
+      "title":"US Navy Seal",
+      "image":"https://i.pinimg.com/236x/1d/12/78/1d127842a75acc09226d9a8a427f67dd.jpg"
+    },
+    {
+      "id":24,
+      "name_category": "US Navy Seal",
+      "title":"US Navy Seal",
+      "image":"https://i.pinimg.com/236x/1d/12/78/1d127842a75acc09226d9a8a427f67dd.jpg"
+    },
+    {
+      "id":25,
+      "name_category": "US Navy Seal",
+      "title":"US Navy Seal",
+      "image":"https://i.pinimg.com/236x/1d/12/78/1d127842a75acc09226d9a8a427f67dd.jpg"
+    },
+    {
+      "id":26,
+      "name_category": "US Navy Seal",
+      "title":"US Navy Seal",
+      "image":"https://i.pinimg.com/236x/1d/12/78/1d127842a75acc09226d9a8a427f67dd.jpg"
+    },
+    {
+      "id":27,
+      "name_category": "US Navy Seal",
+      "title":"US Navy Seal",
+      "image":"https://i.pinimg.com/236x/1d/12/78/1d127842a75acc09226d9a8a427f67dd.jpg"
+    },
+    {
+      "id":28,
+      "name_category": "US Navy Seal",
+      "title":"US Navy Seal",
+      "image":"https://i.pinimg.com/236x/1d/12/78/1d127842a75acc09226d9a8a427f67dd.jpg"
+    },
+    {
+      "id":29,
+      "name_category": "US Navy Seal",
+      "title":"US Navy Seal",
+      "image":"https://i.pinimg.com/236x/1d/12/78/1d127842a75acc09226d9a8a427f67dd.jpg"
+    },
+    {
+      "id":30,
+      "name_category": "US Navy Seal",
+      "title":"US Navy Seal",
+      "image":"https://i.pinimg.com/236x/1d/12/78/1d127842a75acc09226d9a8a427f67dd.jpg"
     }
+    
   ]
 }
