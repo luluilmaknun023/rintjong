@@ -2,22 +2,22 @@
 	"Ads": [
 		{
 			"select_main_ads": "ADMOB",
-			"select_backup_ads": "APPLOVIN",
-			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
-			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712x",
-			"main_ads_natives": "",
-			"main_ads_rewards": "",
-			"backup_ads_natives": "",
-			"backup_ads_banner": "",
-			"backup_ads_intertitial": "",
-			"backup_ads_rewards": "",
-			"open_ads_admob": "",
-			"open_ads_alien": "",
-			"open_ads_max": "1",
-			"on_off_native_listview": "",
-			"interval_intertitial": 5,
-			"initialize_sdk": "",
-			"initialize_sdk_backup_ads": "",
+			"select_backup_ads": "FACEBOOK",
+			"main_ads_banner": "null",
+			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+			"main_ads_natives": "ca-app-pub-3940256099942544/2247696110",
+			"main_ads_rewards": "ca-app-pub-3940256099942544/5224354917",
+			"backup_ads_natives": "null",
+			"backup_ads_banner": "null",
+			"backup_ads_intertitial": "null",
+			"backup_ads_rewards": "null",
+			"open_ads_admob": "ca-app-pub-3940256099942544/3419835294",
+			"open_ads_alien": "null",
+			"open_ads_max": "null",
+			"on_off_native_listview": "1",
+			"interval_intertitial": 9,
+			"initialize_sdk": "null",
+			"initialize_sdk_backup_ads": "null",
 			"high_paying_keyword_1": "",
 			"high_paying_keyword_2": "",
 			"high_paying_keyword_3": "",
@@ -31,21 +31,21 @@
 	"More": [
 		{
 			"id": 1,
-			"title": "Ludo King",
-			"image": "https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-			"link": "https://play.google.com/store/apps/details?id=com.ludo.king"
+			"title": "Wallpaper Aesthetic Cool",
+			"image": "https://play-lh.googleusercontent.com/0vy-dKP22kEam_9yOnAWpCiDqHug5PhNx5A6y04muBlw0Svy6OuHZTq1XDho8S1rtqTd=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.wallpaperaesthetic"
 		},
 		{
 			"id": 2,
-			"title": "Homescapes",
-			"image": "https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-			"link": "https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+			"title": "Wallpaper 4K HD Wallpapers",
+			"image": "https://play-lh.googleusercontent.com/-dVTrS8scTittKLTqffmgQ65t2y4EP-lMRdcYEc2XlG_upCuNunFt6SCacfQz1c0tA=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.hdwallpaper4k"
 		},
 		{
 			"id": 3,
-			"title": "Minecraft",
-			"image": "https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-			"link": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+			"title": "Sakura Anime Wallpaper",
+			"image": "https://play-lh.googleusercontent.com/W87QPqBURJQgR7fpzZJZJCsMntXQJqfqMDPCUr44BPELexCB3XoFh3LeAAE8miy3Dg=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.sakura_anime.wallpaper"
 		}
 	],
 	"Categories": [
