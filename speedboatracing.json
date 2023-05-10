@@ -5,19 +5,19 @@
       "select_backup_ads":"APPLOVIN-D",
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
       "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"",
-      "main_ads_rewards":"",
-      "backup_ads_natives":"",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "backup_ads_natives":"null",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
-      "backup_ads_rewards":"",
-      "open_ads_admob":"",
-      "open_ads_alien":"",
-      "open_ads_max":"1",
-      "on_off_native_listview":"",
-      "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
-      "initialize_sdk_backup_ads":"",
+      "backup_ads_rewards":"c4f1d6029c733547",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"null",
+      "open_ads_max":"0",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 9,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
@@ -25,7 +25,7 @@
       "high_paying_keyword_5": "",
       "status_app": "0",
       "link_redirect": "https://",
-      "on_off_category":""
+      "on_off_category":"1"
     }
   ],
   "More":
@@ -38,38 +38,40 @@
     },
     {
       "id":2,
-      "title":"Homescapes",
-      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
-    },
-    {
-      "id":3,
-      "title":"Minecraft",
-      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
-    }
+      "titl{
+			"id": 1,
+			"title": "Wallpaper Aesthetic Cool",
+			"image": "https://play-lh.googleusercontent.com/0vy-dKP22kEam_9yOnAWpCiDqHug5PhNx5A6y04muBlw0Svy6OuHZTq1XDho8S1rtqTd=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.wallpaperaesthetic"
+		},
+		{
+			"id": 2,
+			"title": "Wallpaper 4K HD Wallpapers",
+			"image": "https://play-lh.googleusercontent.com/-dVTrS8scTittKLTqffmgQ65t2y4EP-lMRdcYEc2XlG_upCuNunFt6SCacfQz1c0tA=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.hdwallpaper4k"
+		},
+		{
+			"id": 3,
+			"title": "Sakura Anime Wallpaper",
+			"image": "https://play-lh.googleusercontent.com/W87QPqBURJQgR7fpzZJZJCsMntXQJqfqMDPCUr44BPELexCB3XoFh3LeAAE8miy3Dg=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.sakura_anime.wallpaper"
+		},
+	       {
+			"id": 4,
+			"title": "Navy Seal Wallpaper",
+			"image": "https://play-lh.googleusercontent.com/7THc2UBA13B-NMpiS06uTNbWAoSvdLyMVnrJiwPGGYIwDYSKOwhPESlv1pKJXIXNNA=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.usnavyseal"
+		}
   ],
 
   "Categories": [
     {
       "id": 1,
-      "name_category": "Nature",
-      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
-
-    },
-    {
-      "id": 2,
-      "name_category": "Animal",
-      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
-
-    },
-    {
-      "id": 3,
-      "name_category": "Car",
-      "image": "file:///android_asset/image/car.jpg"
+      "name_category": "speed_boat_racing_wallpaper",
+      "image": "https://i.pinimg.com/736x/8b/c0/f9/8bc0f984969005d3e907309469b87950.jpg"
 
     }
-  ],
+               ],
 
   "Data":
  [
