@@ -14,7 +14,7 @@
       "open_ads_admob":"",
       "open_ads_alien":"",
       "open_ads_max":"1",
-      "on_off_native_listview":"",
+      "on_off_native_listview":"1",
       "interval_intertitial": 5,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
@@ -25,7 +25,7 @@
       "high_paying_keyword_5": "",
       "status_app": "0",
       "link_redirect": "https://",
-      "on_off_category":""
+      "on_off_category":"1"
     }
   ],
   "More":
@@ -51,22 +51,11 @@
   ],
 
   "Categories": [
+    
     {
       "id": 1,
-      "name_category": "Nature",
-      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
-
-    },
-    {
-      "id": 2,
-      "name_category": "Animal",
-      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
-
-    },
-    {
-      "id": 3,
-      "name_category": "Car",
-      "image": "file:///android_asset/image/car.jpg"
+      "name_category": "daisy",
+      "image": "https://i.pinimg.com/736x/72/b5/e2/72b5e208d9620cf832b69ac7513ebad5.jpg"
 
     }
   ],
@@ -75,40 +64,40 @@
   [
     {
       "id":1,
-      "name_category": "Nature",
+      "name_category": "daisy",
       "title":"Waterfall",
-      "image":"https://i.pinimg.com/564x/a7/43/2d/a7432d11b2a629d1f05162a6c518744f.jpg"
+      "image":"https://i.pinimg.com/736x/38/8d/ab/388dab3e68f5867e62c0bdd20e2a2e81.jpg"
     },
     {
       "id": 2,
-      "name_category": "Nature",
+      "name_category": "daisy",
       "title": "River",
-      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+      "image": "https://i.pinimg.com/564x/48/f0/f6/48f0f63ab9ee8c498e7130b490b1f545.jpg"
     },
     {
       "id":3,
-      "name_category": "Nature",
+      "name_category": "daisy",
       "title":"Mountain",
-      "image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cd5f075-42da-466b-b00a-8bb7ef66ad32/da9l0sw-5f1c1073-d232-4c10-8385-6176e1d71be2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMWNkNWYwNzUtNDJkYS00NjZiLWIwMGEtOGJiN2VmNjZhZDMyXC9kYTlsMHN3LTVmMWMxMDczLWQyMzItNGMxMC04Mzg1LTYxNzZlMWQ3MWJlMi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.QqjZ3T5HxGHJ8A3n3lC87BcVcLoXJUZZ1DOWf4MK4Ew"
+      "image":"https://i.pinimg.com/564x/07/39/0d/07390dc6fd5167f6fdc3a7bf0700b9f1.jpg"
     },
     {
       "id":4,
-      "name_category": "Animal",
+      "name_category": "daisy",
       "title":"Cute Cat",
-      "image":"http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+      "image":"https://i.pinimg.com/564x/ac/81/94/ac8194d3df36717433f083a9c0e4aeee.jpg"
     }
   ,
     {
       "id":5,
-      "name_category": "Animal",
+      "name_category": "daisy",
       "title":"Dog",
-      "image":"https://3diphonewallpaper.com/wp-content/uploads/2018/03/iPhone-Wallpaper-Cute-Puppies-Pictures.jpg"
+      "image":"https://i.pinimg.com/564x/62/6a/a3/626aa3f07f10ef0bc1307bdf8d40a418.jpg"
     },
     {
       "id":6,
-      "name_category": "Car",
+      "name_category": "daisy",
       "title":"Super Car",
-      "image":"file:///android_asset/image/car.jpg"
+      "image":"https://i.pinimg.com/564x/96/c7/81/96c7812dfa31cb47bf94825af5b0d4b7.jpg"
     }
   ]
 }
