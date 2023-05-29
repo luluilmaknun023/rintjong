@@ -14,7 +14,7 @@
       "open_ads_admob":"",
       "open_ads_alien":"",
       "open_ads_max":"1",
-      "on_off_native_listview":"",
+      "on_off_native_listview":"1",
       "interval_intertitial": 5,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
@@ -25,7 +25,7 @@
       "high_paying_keyword_5": "",
       "status_app": "0",
       "link_redirect": "https://",
-      "on_off_category":""
+      "on_off_category":"2"
     }
   ],
   "More":
@@ -51,21 +51,10 @@
   ],
 
   "Categories": [
+    
     {
       "id": 1,
-      "name_category": "Nature",
-      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
-
-    },
-    {
-      "id": 2,
-      "name_category": "Animal",
-      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
-
-    },
-    {
-      "id": 3,
-      "name_category": "Car",
+      "name_category": "Deer",
       "image": "file:///android_asset/image/car.jpg"
 
     }
