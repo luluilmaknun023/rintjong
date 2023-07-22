@@ -1,0 +1,152 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "open_ads_max":"1",
+      "open_ads_wortise":"",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":"1"
+    }
+  ],
+   "More":
+  [
+    {
+			"id": 1,
+			"title": "Wallpaper Aesthetic Cool",
+			"image": "https://play-lh.googleusercontent.com/0vy-dKP22kEam_9yOnAWpCiDqHug5PhNx5A6y04muBlw0Svy6OuHZTq1XDho8S1rtqTd=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.wallpaperaesthetic"
+		},
+		{
+			"id": 2,
+			"title": "Wallpaper 4K HD Wallpapers",
+			"image": "https://play-lh.googleusercontent.com/-dVTrS8scTittKLTqffmgQ65t2y4EP-lMRdcYEc2XlG_upCuNunFt6SCacfQz1c0tA=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.hdwallpaper4k"
+		},
+		{
+			"id": 3,
+			"title": "Sakura Anime Wallpaper",
+			"image": "https://play-lh.googleusercontent.com/W87QPqBURJQgR7fpzZJZJCsMntXQJqfqMDPCUr44BPELexCB3XoFh3LeAAE8miy3Dg=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.sakura_anime.wallpaper"
+		}
+	],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "New York",
+      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Paris",
+      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "Tokyo",
+      "image": "https://storage.googleapis.com/pai-images/27a45b81b4f546a5a0adcbaa755033ab.png"
+
+    },
+	{
+      "id": 4,
+      "name_category": "Rome",
+      "image": "https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/4899e0ab-0a93-46c6-bf6f-1114040ed539/DreamShaper_v7_Transport_yourself_to_ancient_Rome_with_a_majes_0.jpg"
+
+    },
+	{
+      "id": 5,
+      "name_category": "Dubai",
+      "image": "https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/f0fabc3c-4163-4599-8d7c-998c5b58c483/DreamShaper_v7_Experience_the_futuristic_allure_of_Dubai_with_0.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "New York",
+      "title":"New York City skyline at sunset",
+      "image":"https://storage.googleapis.com/pai-images/ab662e184a12441f87d198708f0f8c3a.jpeg"
+    },
+    {
+      "id": 2,
+      "name_category": "Paris",
+      "title": "An enchanting image of the Eiffel Tower",
+      "image": "https://storage.googleapis.com/pai-images/6e18583fe7f2458d9ea2d207ec21c82e.png"
+    },
+    {
+      "id":3,
+      "name_category": "Tokyo",
+      "title":"Streets of Tokyo with a lively cityscape",
+      "image":"https://storage.googleapis.com/pai-images/27a45b81b4f546a5a0adcbaa755033ab.png"
+    },
+    {
+      "id":4,
+      "name_category": "Rome",
+      "title":"Ancient Rome with a majestic view of the Colosseum",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/4899e0ab-0a93-46c6-bf6f-1114040ed539/DreamShaper_v7_Transport_yourself_to_ancient_Rome_with_a_majes_0.jpg"
+    }
+  ,
+    {
+      "id":5,
+      "name_category": "Dubai",
+      "title":"Dubai with an image of the Burj Khalifa",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/f0fabc3c-4163-4599-8d7c-998c5b58c483/DreamShaper_v7_Experience_the_futuristic_allure_of_Dubai_with_0.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "New York",
+      "title":"New York City, from the Empire State Building to the Statue of Liberty",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/68b8e493-a344-412d-a34f-d20925197610/DreamShaper_v7_Admire_the_architectural_wonders_of_New_York_Ci_0.jpg"
+    },
+	{
+      "id": 7,
+      "name_category": "Paris",
+      "title": "Fall in love with the charming streets of Paris",
+      "image": "https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/0e8cf90b-6b15-4219-92cd-29d0fef960b0/SDXL_09_Fall_in_love_with_the_charming_streets_of_Paris_lined_0.jpg"
+    },
+    {
+      "id":8,
+      "name_category": "Tokyo",
+      "title":"Discover the tranquility of Tokyo's traditional gardens and shrines",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/00c82487-ecf0-4d24-83e2-86a2580e0395/SDXL_09_Discover_the_tranquility_of_Tokyos_traditional_gardens_0.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "Rome",
+      "title":"Ancient Rome's historic landmarks",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/f208c717-f508-4525-904d-81101a608bba/SDXL_09_Step_back_in_time_with_a_glimpse_of_ancient_Romes_hist_0.jpg"
+    }
+  ,
+    {
+      "id":10,
+      "name_category": "Dubai",
+      "title":"Dubai's futuristic skyscrapers and artificial islands",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/6d5d8a13-cf6c-468e-936f-3fb35c3f68bf/SDXL_09_Marvel_at_the_modern_marvels_of_Dubais_futuristic_skys_0.jpg"
+    }
+  ]
+}
