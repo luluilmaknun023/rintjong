@@ -61,18 +61,18 @@
     {
       "id": 4,
       "name_category": "ChatAI",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
+      "title": "AI Tips and Tricks",
+      "image": "https://luluilmaknun023.github.io/rintjong/chat-ai-icon.png",
+      "description": "Unlock valuable tips and tricks that experts use to maximize the potential of ChatAI.",
+      "link": "https://luluilmaknun023.github.io/rintjong/AI_Tips_and_Tricks.html"
     },
      {
       "id": 5,
       "name_category": "ChatAI",
-      "title": "Cara mengisi Form Data Safety",
-      "image": "file:///android_asset/image/guide1.jpg",
-      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
-      "link": "file:///android_asset/guide/guide1.html"
+      "title": "Real-time Practice",
+      "image": "https://luluilmaknun023.github.io/rintjong/chat-ai-icon.png",
+      "description": "Practice with real-time simulations of various scenarios to gain practical experience.",
+      "link": "https://luluilmaknun023.github.io/rintjong/Real_time_Practice.html"
     },
     {
       "id": 6,
