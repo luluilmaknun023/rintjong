@@ -85,18 +85,18 @@
     {
       "id": 7,
       "name_category": "ChatAI",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+      "title": "Community Support",
+      "image": "https://luluilmaknun023.github.io/rintjong/chat-ai-icon.png",
+      "description": "Connect with a vibrant community of AI enthusiasts.",
+      "link": "https://luluilmaknun023.github.io/rintjong/Community_Support.html"
     },
     {
       "id": 8,
       "name_category": "ChatAI",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
+      "title": "Level Up",
+      "image": "https://luluilmaknun023.github.io/rintjong/chat-ai-icon.png",
+      "description": "Track your progress and achievements as you level up your AI conversation skills.",
+      "link": "https://luluilmaknun023.github.io/rintjong/Level_Up.html"
     }
   ]
 }
